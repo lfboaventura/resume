@@ -1,1 +1,1 @@
-<a href="https://github.com/lfboaventura">Currículo</a></li>
+<a href="https://lfboaventura.github.io/resume/" target="_blank">Página Currículo</a></li>
