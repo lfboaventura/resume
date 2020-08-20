@@ -285,7 +285,7 @@ p {
 
 .skillset .level-bar {
   height: 12px;
-  background: #f5f5f5;
+  background: #c5c3c3;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
@@ -297,7 +297,8 @@ p {
 }
 
 .skillset .theme-progress-bar {
-  background: #68bacd;
+  /*background: #68bacd;*/
+  background: #007bff;
 }
 
 .footer {
